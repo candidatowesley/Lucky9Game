@@ -1,0 +1,31 @@
+.p1,
+.p2 {
+  margin: auto;
+  width: 30%;
+  border: 3px solid green;
+  padding: 10px;
+  height: 250px;
+  box-sizing: border-box;
+  border: 1px solid #ddd;
+  text-align: center;
+}
+img {
+  height: 200px;
+  display: inline-block;
+}
+h1,h2{
+  text-align: center;
+}
+button{
+  height:20px; 
+  width:100px; 
+  margin: -20px -50px; 
+  position:relative;
+  top:50%; 
+  left:50%;
+  font-size: 16px;
+  color: white;
+  background-color: #0040ff;
+  border: 1px solid #7878ff;
+  cursor: pointer;
+}
